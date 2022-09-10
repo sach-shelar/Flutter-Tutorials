@@ -1,16 +1,31 @@
-# all_layouts
+# All Flutter Layout Widgets.
 
-A new Flutter project.
+In this project we will learn following layout widgets.
+1. Column
+2. Row
+3. Stack
+4. ListView
+5. GridView
+6. SingleChildScrollView
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Column
+- A column widget is used to display children in a vertical manner.
+- It does not provide scrolling.
+- If a child widget needs to expand in the available vertical space, use the Expand widget for the same.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Hugely important Column Widget Properties.
+
+### 1. children 
+- It provide list of widget
+	
+### 2. mainAxisAlignment: 
+- It decide where to display children in top to bottom of screen. Like start of screen, end of screen.
+- It also provide features like space between children or space around children
+
+![me](https://github.com/sach-shelar/Flutter-Tutorials/blob/c105b824af25a028c6f4cb817cc89dbcd20d9051/Images/FlutterColumnMainAxisAlignment.png)
+
+
+
