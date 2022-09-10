@@ -1,16 +1,31 @@
-# stateful_and_stateless_example
+# Stateful And Stateless widget
+This is an example of stateful and stateless widget. 
 
-A new Flutter project.
+## What is a widget?
+In Flutter everything is a widget. A widget is a building block for your user interface. Flutter uses widgets to create amazing apps
 
-## Getting Started
+Flutter has several built-in widgets, and all of them are classified into two types:
 
-This project is a starting point for a Flutter application.
+- Stateless
+- Stateful
 
-A few resources to get you started if this is your first Flutter project:
+To begin a comparison, we must first understand the current state of widgets.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## The State of Widget
+The state is information that can be read synchronously during widget construction and that may be modified later on.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Stateless
+- Stateless widgets are immutable.
+- The stateless widget does not change after you build it.
+- Used to display static information
+- Stateless widgets are ‘DATALESS’ widgets as they don’t store real-time data.
+
+
+## Stateful
+- Stateless widgets are mutable.
+- The stateful widget can be changed after you build it.
+- Used for displaying dynamic data
+- Stateful widgets are bound to data and automatically update as the data model changes
+- If you want to update UI based on a certain event, use a stateful widget
+- Need to use setState.
