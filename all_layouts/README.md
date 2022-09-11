@@ -15,8 +15,9 @@ In this project we will learn following layout widgets.
 - It does not provide scrolling.
 - If a child widget needs to expand in the available vertical space, use the Expand widget for the same.
 
-
 Hugely important Column Widget Properties.
+
+![me](https://github.com/sach-shelar/Flutter-Tutorials/blob/2ecfd0a26cd9a0dd7a6b534f61eb51c7eab4ea12/Images/ColumnWidget.png)
 
 ### 1. children 
 - It provide list of widget
