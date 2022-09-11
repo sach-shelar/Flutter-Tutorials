@@ -26,7 +26,7 @@ Hugely important Column Widget Properties.
 - It decide where to display children in top to bottom of screen. Like start of screen, end of screen.
 - It also provide features like space between children or space around children
 
-![me](https://github.com/sach-shelar/Flutter-Tutorials/blob/c105b824af25a028c6f4cb817cc89dbcd20d9051/Images/mainAxisAlignment.png)
+![me](https://github.com/sach-shelar/Flutter-Tutorials/blob/ecf258af1b02594e38881d9863f511c36a61726f/Images/mainAxisAlignment.png)
 
 
 
