@@ -20,11 +20,11 @@ Hugely important Column Widget Properties.
 ![me](https://github.com/sach-shelar/Flutter-Tutorials/blob/2ecfd0a26cd9a0dd7a6b534f61eb51c7eab4ea12/Images/ColumnWidget.png)
 
 ### 1. children 
-- It provide list of widget
+- It provides a list of widget
 	
 ### 2. mainAxisAlignment: 
-- It decide where to display children in top to bottom of screen. Like start of screen, end of screen.
-- It also provide features like space between children or space around children
+- It decides where to display children from top to bottom of the screen. Like the start of the screen, the end of the screen
+- It also provides features like space between children or space around children
 
 ![me](https://github.com/sach-shelar/Flutter-Tutorials/blob/ecf258af1b02594e38881d9863f511c36a61726f/Images/mainAxisAlignment.png)
 
