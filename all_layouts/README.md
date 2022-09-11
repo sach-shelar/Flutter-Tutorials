@@ -28,6 +28,8 @@ Hugely important Column Widget Properties.
 
 ![me](https://github.com/sach-shelar/Flutter-Tutorials/blob/ecf258af1b02594e38881d9863f511c36a61726f/Images/mainAxisAlignment.png)
 
+
+
 ### 3.crossAxisAlignment
 - It decides where to display the child widget from left to right of the screen, like the top of the screen, or the bottom of the screen.
 
